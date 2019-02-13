@@ -27,6 +27,6 @@ entries:
     - https://github.com/confluentinc/cp-docker-images
     - https://github.com/apache/kafka
     urls:
-    - kafka-0.13.8.tgz
+    - https://raw.githubusercontent.com/jasimsulaiman/kafka-helm-chart/master/kafka-0.13.8.tgz
     version: 0.13.8
 generated: 2019-02-12T20:17:23.666115+04:00
